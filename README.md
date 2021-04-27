@@ -1,4 +1,4 @@
-## Hello World! 🌎 Welcome(a)
+## Hello World! 🌎 Welcome!
 
 <img align="right" src="https://github.com/GabrielBorges105/GabrielBorges105/blob/main/image.png" width="425"/>
 
