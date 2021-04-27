@@ -9,6 +9,9 @@ Hi, my name is Jean Gabriel, I have been working as a web developer and PHP prog
 
 ### 🛠 &nbsp;Tech Stack
 
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![Trello](https://img.shields.io/badge/-trello-05122A?style=flat&logo=trello)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![VueJS](https://img.shields.io/badge/-Vue.Js-05122A?style=flat&logo=vue.js)&nbsp;
