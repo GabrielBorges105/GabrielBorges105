@@ -1,6 +1,6 @@
 ## Hello World! 🌎 Welcome(a)
 
-<img align="right" src="https://github.com/GabrielBorges105/GabrielBorges105/image.png" width="425"/>
+<img align="right" src="https://github.com/GabrielBorges105/GabrielBorges105/blob/image.png" width="425"/>
 
 ### 👨‍💻 &nbsp;About Me
 
