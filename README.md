@@ -4,7 +4,7 @@
 
 ### 👨‍💻 &nbsp;About Me
 
-Hi, my name is Jean Gabriel, I have been working as a web developer and PHP programmer for 5 years. I am currently majoring in Information Systems at Estácio. I developed several systems and sites with PHP, Javascript, HTML5 and CSS, I use the best and most used development tools. I discovered the world of programming in 2016 and it was love at first sight, since then it has been my favorite profession and hobby. I spend my free time studying and learning more and more so that I can become an even better professional.  
+Hi, my name is Jean Gabriel, I have been working as a web developer and PHP programmer for 6 years. I am currently majoring in Information Systems at Estácio. I developed several systems and sites with PHP, Javascript, HTML5 and CSS, I use the best and most used development tools. I discovered the world of programming in 2016 and it was love at first sight, since then it has been my favorite profession and hobby. I spend my free time studying and learning more and more so that I can become an even better professional.  
   
 
 ### 🛠 &nbsp;Tech Stack
@@ -14,6 +14,7 @@ Hi, my name is Jean Gabriel, I have been working as a web developer and PHP prog
 ![Trello](https://img.shields.io/badge/-trello-05122A?style=flat&logo=trello)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-React-05122A?style=flat&logo=react-native)&nbsp;
 ![VueJS](https://img.shields.io/badge/-Vue.Js-05122A?style=flat&logo=vue.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -22,7 +23,6 @@ Hi, my name is Jean Gabriel, I have been working as a web developer and PHP prog
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-
 
 ### 🤝🏻 &nbsp;Connect with Me
 
