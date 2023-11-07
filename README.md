@@ -4,7 +4,7 @@
 
 ### 👨‍💻 &nbsp;About Me
 
-Hi, my name is Jean Gabriel, I have been working as a web developer and PHP programmer for 6 years. I am currently majoring in Information Systems at Estácio. I developed several systems and sites with PHP, Javascript, HTML5 and CSS, I use the best and most used development tools. I discovered the world of programming in 2016 and it was love at first sight, since then it has been my favorite profession and hobby. I spend my free time studying and learning more and more so that I can become an even better professional.  
+Hello, my name is Jean Gabriel, I am a Senior Fullstack Developer, I have 6 years of experience, I have a bachelor's degree in Information Systems. I have worked on several projects, from the development of systems, websites, applications, email marketing, banner ads, landing pages and many others. I currently work with PHP, Javascript, HTML5, CSS, Laravel, React, React Native, VueJs, NextJs.
   
 
 ### 🛠 &nbsp;Tech Stack
